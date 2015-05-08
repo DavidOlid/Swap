@@ -1,0 +1,23 @@
+Tema 5
+
+
+1-Cuales de las siguientes afirmaciones para estabecer una conexion http son ciertas?
+
+a)el cliente inicia la conexión HTTP enviando un
+paquete TCP SYN al puerto 80 del servidor web
+b)el servidor web envía un paquete ACK al administrador seguido de otro SYN
+c)el cliente envía un paquete ACK como pregunta
+d)Todas son ciertas
+
+Respuesta:a
+
+2-En el trafico FTP/streaming...
+a)Tras una conexión inicial (ya que usa UDP como protocolo),
+se envía una gran cantidad de información.
+b)El número de conexiones para este tipo de tráfico es muy
+bajo comparado con la cantidad de información enviada
+c)Consumen el ancho de banda máximo rápidamente. 
+
+d)Todas son correctas.
+respuesta:d
+
