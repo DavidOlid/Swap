@@ -1,0 +1,22 @@
+Tema 3
+
+1-La configuración de la red requiere: 
+
+a)Elegir el modelo de red más adecuado 
+
+b)Estructurar la red sin aislar subredes 
+
+c)Definir los puntos de entrada a las diferentes servidores
+d)Todas son ciertas
+respuesta:a
+
+
+2-Problemas de configurar una zona segura sin DMZ
+a)Compartición del ancho de banda (servidores y máquinas
+de escritorio).
+b)Asegurar los servidores es más complicado. 
+
+c)Si uno de los servidores se ve comprometido, el resto de
+recursos puede ser atacado.
+d)Todas son ciertas
+respuesta:d
